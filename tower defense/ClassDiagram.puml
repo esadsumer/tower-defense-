@@ -1,0 +1,250 @@
+@startuml Tower Defense Class Diagram
+
+' Abstract Base Classes
+abstract class Enemy {
+    -shieldIntegrity: double
+    -maxShieldIntegrity: double
+    -velocity: double
+    -armorRating: int
+    -isFlying: boolean
+    -x: double
+    -y: double
+    -pathIndex: double
+    -isAlive: boolean
+    -slowEffectTimer: double
+    -originalVelocity: double
+    -rewardEnergy: int
+    -baseDamage: int
+    +getShieldIntegrity(): double
+    +getMaxShieldIntegrity(): double
+    +getVelocity(): double
+    +getArmorRating(): int
+    +isFlying(): boolean
+    +getX(): double
+    +getY(): double
+    +getPathIndex(): double
+    +isAlive(): boolean
+    +getRewardEnergy(): int
+    +getBaseDamage(): int
+    +setPosition(x: double, y: double): void
+    +setPathIndex(index: double): void
+    +takeDamage(rawDamage: double): boolean
+    +applySlowEffect(duration: double): void
+    +updateSlowEffect(deltaTime: double): void
+    +reachedBase(pathLength: int): boolean
+    +{abstract} getEnemyType(): String
+}
+
+abstract class Tower {
+    #x: double
+    #y: double
+    #targetingRange: double
+    #damageOutput: double
+    #fireRate: double
+    #lastFireTime: double
+    #energyCost: int
+    #isActive: boolean
+    +getX(): double
+    +getY(): double
+    +getTargetingRange(): double
+    +getDamageOutput(): double
+    +getFireRate(): double
+    +getEnergyCost(): int
+    +isActive(): boolean
+    +setPosition(x: double, y: double): void
+    +canFire(currentTime: double): boolean
+    +{abstract} fire(enemies: List<Enemy>, currentTime: double): List<Enemy>
+    +{abstract} getTowerType(): String
+}
+
+' Enemy Subclasses
+class StandardEnemy {
+    +StandardEnemy()
+    +getEnemyType(): String
+}
+
+class ArmoredEnemy {
+    -generateArmorRating(): int
+    +ArmoredEnemy()
+    +getEnemyType(): String
+}
+
+class FlyingEnemy {
+    +FlyingEnemy()
+    +getEnemyType(): String
+}
+
+' Tower Subclasses
+class ArcherTower {
+    -findTarget(enemies: List<Enemy>): Enemy
+    +ArcherTower(x: double, y: double)
+    +fire(enemies: List<Enemy>, currentTime: double): List<Enemy>
+    +getTowerType(): String
+}
+
+class CannonTower {
+    -EXPLOSION_RADIUS: double
+    -findTarget(enemies: List<Enemy>): Enemy
+    +CannonTower(x: double, y: double)
+    +fire(enemies: List<Enemy>, currentTime: double): List<Enemy>
+    +getTowerType(): String
+}
+
+class IceTower {
+    -SLOW_DURATION: double
+    -findTarget(enemies: List<Enemy>): Enemy
+    +IceTower(x: double, y: double)
+    +fire(enemies: List<Enemy>, currentTime: double): List<Enemy>
+    +getTowerType(): String
+}
+
+' Path Class
+class Path {
+    -waypoints: List<Point>
+    +getWaypoints(): List<Point>
+    +getWaypoint(index: int): Point
+    +getLength(): int
+    +getBase(): Point
+    +getPosition(pathIndex: double): Point
+}
+
+class Point {
+    +x: double
+    +y: double
+    +Point(x: double, y: double)
+}
+
+' Game Engine
+class GameEngine {
+    -enemies: List<Enemy>
+    -towers: List<Tower>
+    -path: Path
+    -kaleSavunmasi: int
+    -altinHazinesi: int
+    -currentWave: int
+    -totalWaves: int
+    -gameRunning: boolean
+    -gameWon: boolean
+    -gameLost: boolean
+    -gameTime: double
+    -logWriter: PrintWriter
+    -random: Random
+    +getEnemies(): List<Enemy>
+    +getTowers(): List<Tower>
+    +getPath(): Path
+    +getPlayerShieldIntegrity(): int
+    +getEnergyCore(): int
+    +getCurrentWave(): int
+    +getTotalWaves(): int
+    +isGameRunning(): boolean
+    +isGameWon(): boolean
+    +isGameLost(): boolean
+    +getGameTime(): double
+    +initializeGame(): void
+    +resetGame(): void
+    +startNextWave(): void
+    +update(deltaTime: double): void
+    +placeTower(tower: Tower): boolean
+    +close(): void
+    -createWave1(): void
+    -createWave2(): void
+    -createWave3(): void
+    -createWave4(): void
+    -updateEnemies(deltaTime: double): void
+    -updateTowers(deltaTime: double): void
+    -removeDeadEnemies(): void
+    -checkGameState(): void
+    -logMessage(message: String): void
+}
+
+' GUI Classes
+class GameGUI {
+    -engine: GameEngine
+    -gameTimer: Timer
+    -selectedTowerType: int
+    -placingTower: boolean
+    -showingGameOver: boolean
+    +start(): void
+    +stop(): void
+    +restartGame(): void
+    +actionPerformed(e: ActionEvent): void
+    +paintComponent(g: Graphics): void
+    -drawBackground(g2d: Graphics2D): void
+    -drawPath(g2d: Graphics2D): void
+    -drawBase(g2d: Graphics2D): void
+    -drawTowers(g2d: Graphics2D): void
+    -drawEnemies(g2d: Graphics2D): void
+    -drawUI(g2d: Graphics2D): void
+    -drawGameOver(g2d: Graphics2D): void
+    -drawTower(g2d: Graphics2D, tower: Tower): void
+    -drawEnemy(g2d: Graphics2D, enemy: Enemy): void
+    -drawTowerButton(g2d: Graphics2D, text: String, x: int, y: int, type: int): void
+    -placeTowerAt(x: int, y: int): void
+    -distanceToLineSegment(px: double, py: double, x1: double, y1: double, x2: double, y2: double): double
+}
+
+class MainMenu {
+    -startButton: JButton
+    -exitButton: JButton
+    -listener: MainMenuListener
+    +MainMenu(listener: MainMenuListener)
+    -setupUI(): void
+    -createButton(text: String, width: int, height: int): JButton
+}
+
+interface MainMenuListener {
+    +onStartGame(): void
+    +onExit(): void
+}
+
+' Main Class
+class SpaceColonyDefense {
+    -engine: GameEngine
+    -gui: GameGUI
+    -mainMenu: MainMenu
+    -frame: JFrame
+    -cardLayout: CardLayout
+    -mainPanel: JPanel
+    +SpaceColonyDefense()
+    +main(args: String[]): void
+    -setupFrame(): void
+    -startGame(): void
+}
+
+' Inheritance Relationships
+Enemy <|-- StandardEnemy
+Enemy <|-- ArmoredEnemy
+Enemy <|-- FlyingEnemy
+
+Tower <|-- ArcherTower
+Tower <|-- CannonTower
+Tower <|-- IceTower
+
+' Composition Relationships
+Path *-- Point : contains
+
+GameEngine *-- "List<Enemy>" : manages
+GameEngine *-- "List<Tower>" : manages
+GameEngine *-- Path : uses
+
+SpaceColonyDefense *-- GameEngine : has
+SpaceColonyDefense *-- GameGUI : has
+SpaceColonyDefense *-- MainMenu : has
+
+MainMenu ..> MainMenuListener : implements
+
+' Dependency Relationships
+GameGUI ..> GameEngine : uses
+Tower ..> Enemy : fires at
+ArcherTower ..> ArmoredEnemy : checks instanceof
+CannonTower ..> Enemy : targets
+
+' Notes
+note right of Enemy : Abstract base class\nfor all enemy types
+note right of Tower : Abstract base class\nfor all tower types
+note right of GameEngine : Core game logic\nand simulation
+note right of GameGUI : Visual representation\nand user interaction
+note right of SpaceColonyDefense : Main entry point\ncoordinates all components
+
+@enduml
+

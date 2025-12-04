@@ -1,0 +1,1089 @@
+[0,00s] === Antik Mısır Kalesi Savunma Sistemleri Aktif ===
+[0,00s] İstilacı Ordusu Tespit Edildi - Savunma Moduna Geçildi
+[0,00s] Başlangıç Altın Hazinesi: 300
+[0,00s] Başlangıç Kale Savunması: 150
+[0,00s] === İstilacı Ordu Dalgası 1 Tespit Edildi ===
+[0,00s] Askari (Normal Asker) Oluşturuldu
+[0,00s] Askari (Normal Asker) Oluşturuldu
+[0,00s] Zırhlı Savaşçı Oluşturuldu (Zırh: 84)
+[0,00s] Uçan Akbaba Oluşturuldu
+[0,00s] === Antik Mısır Kalesi Savunma Sistemleri Aktif ===
+[0,00s] İstilacı Ordusu Tespit Edildi - Savunma Moduna Geçildi
+[0,00s] Başlangıç Altın Hazinesi: 300
+[0,00s] Başlangıç Kale Savunması: 150
+[0,00s] === İstilacı Ordu Dalgası 1 Tespit Edildi ===
+[0,00s] Askari (Normal Asker) Oluşturuldu
+[0,00s] Askari (Normal Asker) Oluşturuldu
+[0,00s] Zırhlı Savaşçı Oluşturuldu (Zırh: 52)
+[0,00s] Uçan Akbaba Oluşturuldu
+[2,15s] UcanAkbaba kaleye ulaştı! Kale Savunması: 144
+[3,33s] Askari kaleye ulaştı! Kale Savunması: 138
+[3,33s] Askari kaleye ulaştı! Kale Savunması: 132
+[5,37s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 120
+[5,37s] === İstilacı Ordu Dalgası 2 Tespit Edildi ===
+[5,37s] Standart Piyade Birimi Oluşturuldu
+[5,37s] Zırhlı Savaşçı Oluşturuldu (Zırh: 87)
+[5,37s] Uçan Akbaba Oluşturuldu
+[5,37s] Uçan Akbaba Oluşturuldu
+[5,37s] Askari (Normal Asker) Oluşturuldu
+[5,37s] Uçan Akbaba Oluşturuldu
+[5,37s] Uçan Akbaba Oluşturuldu
+[5,37s] Zırhlı Piyade Birimi Oluşturuldu (Zırh: 68)
+[5,37s] Uçan Akbaba Oluşturuldu
+[7,52s] UcanAkbaba kaleye ulaştı! Kale Savunması: 114
+[7,52s] UcanAkbaba kaleye ulaştı! Kale Savunması: 108
+[7,52s] UcanAkbaba kaleye ulaştı! Kale Savunması: 102
+[7,52s] UcanAkbaba kaleye ulaştı! Kale Savunması: 96
+[7,52s] UcanAkbaba kaleye ulaştı! Kale Savunması: 90
+[8,70s] Askari kaleye ulaştı! Kale Savunması: 84
+[8,70s] Askari kaleye ulaştı! Kale Savunması: 78
+[0,00s] === Antik Mısır Kalesi Savunma Sistemleri Aktif ===
+[0,00s] İstilacı Ordusu Tespit Edildi - Savunma Moduna Geçildi
+[0,00s] Başlangıç Altın Hazinesi: 300
+[0,00s] Başlangıç Kale Savunması: 150
+[0,00s] === İstilacı Ordu Dalgası 1 Tespit Edildi ===
+[0,00s] Askari (Normal Asker) Oluşturuldu
+[0,00s] Askari (Normal Asker) Oluşturuldu
+[0,00s] Zırhlı Savaşçı Oluşturuldu (Zırh: 52)
+[0,00s] Uçan Akbaba Oluşturuldu
+[2,38s] OkcuKulesi yerleştirildi. Maliyet: 50, Kalan Altın: 250
+[2,40s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[2,50s] UcanAkbaba kaleye ulaştı! Kale Savunması: 144
+[3,32s] OkcuKulesi -> Askari hasar verdi (Can: 5,0)
+[3,90s] Askari kaleye ulaştı! Kale Savunması: 138
+[3,90s] Askari kaleye ulaştı! Kale Savunması: 132
+[4,23s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 44,2)
+[4,92s] TopcuKulesi yerleştirildi. Maliyet: 75, Kalan Altın: 175
+[4,93s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 14,6)
+[5,15s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 6,4)
+[6,07s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,7)
+[6,18s] OkcuKulesi yerleştirildi. Maliyet: 50, Kalan Altın: 125
+[6,27s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 120
+[6,27s] === İstilacı Ordu Dalgası 2 Tespit Edildi ===
+[6,27s] Standart Piyade Birimi Oluşturuldu
+[6,27s] Zırhlı Savaşçı Oluşturuldu (Zırh: 72)
+[6,27s] Uçan Akbaba Oluşturuldu
+[6,27s] Uçan Akbaba Oluşturuldu
+[6,27s] Askari (Normal Asker) Oluşturuldu
+[6,27s] Askari (Normal Asker) Oluşturuldu
+[7,33s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[7,90s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 0,0)
+[7,90s] UcanAkbaba yok edildi! Altın Kazancı: 15
+[7,90s] Altın Hazinesi: 140 (+15)
+[7,95s] TopcuKulesi yerleştirildi. Maliyet: 75, Kalan Altın: 65
+[7,97s] TopcuKulesi -> Askari hasar verdi (Can: 0,0)
+[7,97s] Askari yok edildi! Altın Kazancı: 10
+[7,97s] Altın Hazinesi: 75 (+10)
+[8,12s] TopcuKulesi -> Askari hasar verdi (Can: 0,0)
+[8,12s] Askari yok edildi! Altın Kazancı: 10
+[8,12s] Altın Hazinesi: 85 (+10)
+[8,23s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 3,0)
+[8,77s] UcanAkbaba kaleye ulaştı! Kale Savunması: 114
+[8,80s] OkcuKulesi -> Askari hasar verdi (Can: 12,5)
+[9,13s] OkcuKulesi -> Askari hasar verdi (Can: 0,0)
+[9,13s] Askari yok edildi! Altın Kazancı: 10
+[9,13s] Altın Hazinesi: 95 (+10)
+[9,85s] OkcuKulesi yerleştirildi. Maliyet: 50, Kalan Altın: 45
+[9,87s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 42,7)
+[10,03s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 37,6)
+[10,33s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 32,6)
+[10,77s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 27,5)
+[10,92s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 1,3)
+[10,93s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,0)
+[10,93s] ZirhliSavasci yok edildi! Altın Kazancı: 20
+[10,93s] Altın Hazinesi: 65 (+20)
+[10,93s] === İstilacı Ordu Dalgası 3 Tespit Edildi ===
+[10,93s] Standart Piyade Birimi Oluşturuldu
+[10,93s] Zırhlı Savaşçı Oluşturuldu (Zırh: 77)
+[10,93s] Uçan Akbaba Oluşturuldu
+[10,93s] Standart Piyade Birimi Oluşturuldu
+[10,93s] Zırhlı Savaşçı Oluşturuldu (Zırh: 50)
+[10,93s] Uçan Akbaba Oluşturuldu
+[10,93s] Uçan Akbaba Oluşturuldu
+[10,93s] Zırhlı Piyade Birimi Oluşturuldu (Zırh: 87)
+[10,93s] Zırhlı Piyade Birimi Oluşturuldu (Zırh: 53)
+[11,25s] TopcuKulesi -> Askari hasar verdi (Can: 0,0)
+[11,25s] Askari yok edildi! Altın Kazancı: 10
+[11,25s] Altın Hazinesi: 75 (+10)
+[11,90s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[12,00s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 0,0)
+[12,00s] UcanAkbaba yok edildi! Altın Kazancı: 15
+[12,00s] Altın Hazinesi: 90 (+15)
+[12,57s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[12,80s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 0,0)
+[12,80s] UcanAkbaba yok edildi! Altın Kazancı: 15
+[12,80s] Altın Hazinesi: 105 (+15)
+[12,90s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 3,0)
+[13,43s] UcanAkbaba kaleye ulaştı! Kale Savunması: 108
+[13,47s] OkcuKulesi -> Askari hasar verdi (Can: 12,5)
+[13,70s] OkcuKulesi -> Askari hasar verdi (Can: 0,0)
+[13,70s] Askari yok edildi! Altın Kazancı: 10
+[13,70s] Altın Hazinesi: 115 (+10)
+[13,80s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 45,1)
+[13,90s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 27,3)
+[14,05s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,0)
+[14,05s] ZirhliSavasci yok edildi! Altın Kazancı: 20
+[14,05s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 5,0)
+[14,05s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 13,9)
+[14,05s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 5,9)
+[14,05s] Altın Hazinesi: 135 (+20)
+[14,55s] OkcuKulesi yerleştirildi. Maliyet: 50, Kalan Altın: 85
+[14,57s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,0)
+[14,57s] ZirhliSavasci yok edildi! Altın Kazancı: 20
+[14,57s] Altın Hazinesi: 105 (+20)
+[14,60s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 7,2)
+[14,70s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 2,5)
+[15,00s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,0)
+[15,00s] ZirhliSavasci yok edildi! Altın Kazancı: 20
+[15,00s] Altın Hazinesi: 125 (+20)
+[15,50s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,2)
+[15,60s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,0)
+[15,60s] ZirhliSavasci yok edildi! Altın Kazancı: 20
+[15,60s] Altın Hazinesi: 145 (+20)
+[15,60s] === İstilacı Ordu Dalgası 4 Tespit Edildi ===
+[15,60s] Askari (Normal Asker) Oluşturuldu
+[15,60s] Zırhlı Savaşçı Oluşturuldu (Zırh: 64)
+[15,60s] Zırhlı Savaşçı Oluşturuldu (Zırh: 75)
+[15,60s] Askari (Normal Asker) Oluşturuldu
+[15,60s] Uçan Akbaba Oluşturuldu
+[15,60s] Zırhlı Savaşçı Oluşturuldu (Zırh: 60)
+[15,60s] Uçan Akbaba Oluşturuldu
+[15,60s] Uçan Akbaba Oluşturuldu
+[15,60s] Uçan Akbaba Oluşturuldu
+[16,57s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[16,67s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 0,0)
+[16,67s] UcanAkbaba yok edildi! Altın Kazancı: 15
+[16,67s] Altın Hazinesi: 160 (+15)
+[16,83s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[16,85s] TopcuKulesi -> Askari hasar verdi (Can: 0,0)
+[16,85s] Askari yok edildi! Altın Kazancı: 10
+[16,85s] Altın Hazinesi: 170 (+10)
+[17,23s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 0,0)
+[17,23s] UcanAkbaba yok edildi! Altın Kazancı: 15
+[17,23s] Altın Hazinesi: 185 (+15)
+[17,45s] TopcuKulesi -> Askari hasar verdi (Can: 0,0)
+[17,45s] Askari yok edildi! Altın Kazancı: 10
+[17,45s] Altın Hazinesi: 195 (+10)
+[17,48s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[17,58s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 0,0)
+[17,58s] UcanAkbaba yok edildi! Altın Kazancı: 15
+[17,58s] Altın Hazinesi: 210 (+15)
+[18,10s] UcanAkbaba kaleye ulaştı! Kale Savunması: 102
+[18,40s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 42,4)
+[18,50s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 37,0)
+[18,67s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 31,7)
+[19,32s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 24,1)
+[19,42s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 18,7)
+[19,58s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 11,1)
+[19,67s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 5,8)
+[19,67s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,0)
+[19,67s] ZirhliSavasci yok edildi! Altın Kazancı: 20
+[19,67s] Altın Hazinesi: 230 (+20)
+[20,23s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 45,0)
+[20,27s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 19,3)
+[20,33s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 12,1)
+[20,58s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 5,0)
+[21,25s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,0)
+[21,50s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,0)
+[21,50s] ZirhliSavasci yok edildi! Altın Kazancı: 20
+[21,50s] Altın Hazinesi: 250 (+20)
+[21,87s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 90
+[21,87s] === KAZANDINIZ ===
+[21,87s] Tüm istilacı orduları yok edildi. Firavun'un kalesi güvende!
+[0,00s] === Antik Mısır Kalesi Savunma Sistemleri Aktif ===
+[0,00s] İstilacı Ordusu Tespit Edildi - Savunma Moduna Geçildi
+[0,00s] Başlangıç Altın Hazinesi: 300
+[0,00s] Başlangıç Kale Savunması: 150
+[0,00s] === İstilacı Ordu Dalgası 1 Tespit Edildi ===
+[0,00s] Askari (Normal Asker) Oluşturuldu
+[0,00s] Askari (Normal Asker) Oluşturuldu
+[0,00s] Zırhlı Savaşçı Oluşturuldu (Zırh: 58)
+[0,00s] Uçan Akbaba Oluşturuldu
+[2,50s] UcanAkbaba kaleye ulaştı! Kale Savunması: 144
+[3,90s] Askari kaleye ulaştı! Kale Savunması: 138
+[3,90s] Askari kaleye ulaştı! Kale Savunması: 132
+[6,27s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 120
+[6,27s] === İstilacı Ordu Dalgası 2 Tespit Edildi ===
+[6,27s] Standart Piyade Birimi Oluşturuldu
+[6,27s] Zırhlı Savaşçı Oluşturuldu (Zırh: 81)
+[6,27s] Uçan Akbaba Oluşturuldu
+[6,27s] Zırhlı Piyade Birimi Oluşturuldu (Zırh: 78)
+[6,27s] Zırhlı Piyade Birimi Oluşturuldu (Zırh: 90)
+[6,68s] BuzKulesi yerleştirildi. Maliyet: 70, Kalan Altın: 230
+[6,70s] BuzKulesi -> UcanAkbaba hasar verdi (Can: 3,5)
+[8,50s] BuzKulesi -> Askari hasar verdi (Can: 0,0)
+[8,50s] Askari yok edildi! Altın Kazancı: 10
+[8,50s] Altın Hazinesi: 240 (+10)
+[10,27s] UcanAkbaba kaleye ulaştı! Kale Savunması: 114
+[12,53s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 102
+[12,53s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 90
+[12,53s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 78
+[12,53s] === İstilacı Ordu Dalgası 3 Tespit Edildi ===
+[12,53s] Standart Piyade Birimi Oluşturuldu
+[12,53s] Zırhlı Savaşçı Oluşturuldu (Zırh: 66)
+[12,53s] Uçan Akbaba Oluşturuldu
+[12,53s] Standart Piyade Birimi Oluşturuldu
+[12,53s] Zırhlı Savaşçı Oluşturuldu (Zırh: 61)
+[12,53s] Uçan Akbaba Oluşturuldu
+[12,53s] Zırhlı Piyade Birimi Oluşturuldu (Zırh: 70)
+[12,85s] BuzKulesi -> UcanAkbaba hasar verdi (Can: 3,5)
+[14,65s] BuzKulesi -> Askari hasar verdi (Can: 0,0)
+[14,65s] Askari yok edildi! Altın Kazancı: 10
+[14,65s] Altın Hazinesi: 250 (+10)
+[15,03s] UcanAkbaba kaleye ulaştı! Kale Savunması: 72
+[16,43s] Askari kaleye ulaştı! Kale Savunması: 66
+[16,45s] BuzKulesi -> ZirhliSavasci hasar verdi (Can: 35,2)
+[16,53s] UcanAkbaba kaleye ulaştı! Kale Savunması: 60
+[17,33s] OkcuKulesi yerleştirildi. Maliyet: 50, Kalan Altın: 200
+[18,33s] TopcuKulesi yerleştirildi. Maliyet: 75, Kalan Altın: 125
+[18,35s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 8,1)
+[18,80s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 48
+[18,80s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 36
+[20,23s] OkcuKulesi yerleştirildi. Maliyet: 50, Kalan Altın: 75
+[20,25s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 2,9)
+[20,30s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 24
+[20,30s] === İstilacı Ordu Dalgası 4 Tespit Edildi ===
+[20,30s] Askari (Normal Asker) Oluşturuldu
+[20,30s] Zırhlı Savaşçı Oluşturuldu (Zırh: 69)
+[20,30s] Uçan Akbaba Oluşturuldu
+[20,30s] Uçan Akbaba Oluşturuldu
+[20,30s] Askari (Normal Asker) Oluşturuldu
+[20,30s] Askari (Normal Asker) Oluşturuldu
+[20,30s] Uçan Akbaba Oluşturuldu
+[20,30s] Askari (Normal Asker) Oluşturuldu
+[20,30s] Uçan Akbaba Oluşturuldu
+[20,30s] Uçan Akbaba Oluşturuldu
+[20,30s] Zırhlı Savaşçı Oluşturuldu (Zırh: 62)
+[20,32s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[20,62s] BuzKulesi -> UcanAkbaba hasar verdi (Can: 0,0)
+[20,62s] UcanAkbaba yok edildi! Altın Kazancı: 15
+[20,62s] Altın Hazinesi: 90 (+15)
+[21,23s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 42,6)
+[21,95s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[22,15s] TopcuKulesi -> Askari hasar verdi (Can: 0,0)
+[22,15s] Askari yok edildi! Altın Kazancı: 10
+[22,15s] Altın Hazinesi: 100 (+10)
+[22,43s] BuzKulesi -> Askari hasar verdi (Can: 0,0)
+[22,43s] Askari yok edildi! Altın Kazancı: 10
+[22,43s] Altın Hazinesi: 110 (+10)
+[22,80s] UcanAkbaba kaleye ulaştı! Kale Savunması: 18
+[22,80s] UcanAkbaba kaleye ulaştı! Kale Savunması: 12
+[22,80s] UcanAkbaba kaleye ulaştı! Kale Savunması: 6
+[22,80s] UcanAkbaba kaleye ulaştı! Kale Savunması: 0
+[22,80s] === KAYBETTINIZ ===
+[22,80s] Kale Savunması tükendi. Firavun'un kalesi işgal edildi!
+[0,00s] === Antik Mısır Kalesi Savunma Sistemleri Aktif ===
+[0,00s] İstilacı Ordusu Tespit Edildi - Savunma Moduna Geçildi
+[0,00s] Başlangıç Altın Hazinesi: 300
+[0,00s] Başlangıç Kale Savunması: 150
+[0,00s] === İstilacı Ordu Dalgası 1 Tespit Edildi ===
+[0,00s] Askari (Normal Asker) Oluşturuldu
+[0,00s] Askari (Normal Asker) Oluşturuldu
+[0,00s] Zırhlı Savaşçı Oluşturuldu (Zırh: 53)
+[0,00s] Uçan Akbaba Oluşturuldu
+[0,00s] === Antik Mısır Kalesi Savunma Sistemleri Aktif ===
+[0,00s] İstilacı Ordusu Tespit Edildi - Savunma Moduna Geçildi
+[0,00s] Başlangıç Altın Hazinesi: 300
+[0,00s] Başlangıç Kale Savunması: 150
+[0,00s] === İstilacı Ordu Dalgası 1 Tespit Edildi ===
+[0,00s] Askari (Normal Asker) Oluşturuldu
+[0,00s] Askari (Normal Asker) Oluşturuldu
+[0,00s] Zırhlı Savaşçı Oluşturuldu (Zırh: 88)
+[0,00s] Uçan Akbaba Oluşturuldu
+[1,60s] OkcuKulesi yerleştirildi. Maliyet: 50, Kalan Altın: 250
+[1,67s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[2,50s] UcanAkbaba kaleye ulaştı! Kale Savunması: 144
+[2,58s] OkcuKulesi -> Askari hasar verdi (Can: 12,5)
+[2,70s] TopcuKulesi yerleştirildi. Maliyet: 75, Kalan Altın: 175
+[2,82s] TopcuKulesi -> Askari hasar verdi (Can: 0,0)
+[2,82s] Askari yok edildi! Altın Kazancı: 10
+[2,82s] Altın Hazinesi: 185 (+10)
+[3,50s] OkcuKulesi -> Askari hasar verdi (Can: 5,0)
+[3,90s] Askari kaleye ulaştı! Kale Savunması: 138
+[4,42s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 45,3)
+[4,50s] BuzKulesi yerleştirildi. Maliyet: 70, Kalan Altın: 115
+[4,52s] BuzKulesi -> ZirhliSavasci hasar verdi (Can: 26,7)
+[5,33s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 20,1)
+[5,63s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,0)
+[5,63s] ZirhliSavasci yok edildi! Altın Kazancı: 20
+[5,63s] Altın Hazinesi: 135 (+20)
+[5,63s] === İstilacı Ordu Dalgası 2 Tespit Edildi ===
+[5,63s] Standart Piyade Birimi Oluşturuldu
+[5,63s] Zırhlı Savaşçı Oluşturuldu (Zırh: 54)
+[5,63s] Uçan Akbaba Oluşturuldu
+[5,63s] Zırhlı Piyade Birimi Oluşturuldu (Zırh: 90)
+[5,63s] Zırhlı Piyade Birimi Oluşturuldu (Zırh: 55)
+[5,63s] Zırhlı Piyade Birimi Oluşturuldu (Zırh: 72)
+[5,63s] Uçan Akbaba Oluşturuldu
+[5,63s] Askari (Normal Asker) Oluşturuldu
+[6,03s] TopcuKulesi yerleştirildi. Maliyet: 75, Kalan Altın: 60
+[6,05s] TopcuKulesi -> Askari hasar verdi (Can: 0,0)
+[6,05s] Askari yok edildi! Altın Kazancı: 10
+[6,05s] Altın Hazinesi: 70 (+10)
+[6,92s] BuzKulesi -> UcanAkbaba hasar verdi (Can: 3,5)
+[7,30s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[7,75s] OkcuKulesi yerleştirildi. Maliyet: 50, Kalan Altın: 20
+[7,77s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 44,3)
+[8,13s] UcanAkbaba kaleye ulaştı! Kale Savunması: 132
+[8,20s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 0,0)
+[8,20s] UcanAkbaba yok edildi! Altın Kazancı: 15
+[8,20s] Altın Hazinesi: 35 (+15)
+[8,43s] TopcuKulesi -> Askari hasar verdi (Can: 0,0)
+[8,43s] Askari yok edildi! Altın Kazancı: 10
+[8,43s] Altın Hazinesi: 45 (+10)
+[8,82s] BuzKulesi -> ZirhliSavasci hasar verdi (Can: 28,4)
+[8,85s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 26,3)
+[9,78s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 21,7)
+[10,62s] BuzKulesi -> ZirhliSavasci hasar verdi (Can: 8,8)
+[10,68s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 41,9)
+[11,23s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 12,9)
+[11,58s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 4,8)
+[11,90s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 120
+[11,90s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 108
+[12,20s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 8,0)
+[12,48s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 2,2)
+[13,17s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 96
+[13,38s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 2,3)
+[13,40s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 84
+[13,40s] === İstilacı Ordu Dalgası 3 Tespit Edildi ===
+[13,40s] Standart Piyade Birimi Oluşturuldu
+[13,40s] Zırhlı Savaşçı Oluşturuldu (Zırh: 61)
+[13,40s] Uçan Akbaba Oluşturuldu
+[13,40s] Standart Piyade Birimi Oluşturuldu
+[13,40s] Zırhlı Savaşçı Oluşturuldu (Zırh: 84)
+[13,40s] Uçan Akbaba Oluşturuldu
+[13,42s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[14,32s] OkcuKulesi -> Askari hasar verdi (Can: 5,0)
+[14,68s] BuzKulesi -> UcanAkbaba hasar verdi (Can: 0,0)
+[14,68s] UcanAkbaba yok edildi! Altın Kazancı: 15
+[14,68s] Altın Hazinesi: 60 (+15)
+[14,93s] TopcuKulesi -> Askari hasar verdi (Can: 0,0)
+[14,93s] Askari yok edildi! Altın Kazancı: 10
+[14,93s] Altın Hazinesi: 70 (+10)
+[15,00s] TopcuKulesi -> Askari hasar verdi (Can: 0,0)
+[15,00s] Askari yok edildi! Altın Kazancı: 10
+[15,00s] Altın Hazinesi: 80 (+10)
+[15,07s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[15,22s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 42,2)
+[15,90s] UcanAkbaba kaleye ulaştı! Kale Savunması: 78
+[16,50s] TopcuKulesi yerleştirildi. Maliyet: 75, Kalan Altın: 5
+[16,52s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,3)
+[16,52s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 13,3)
+[16,58s] BuzKulesi -> ZirhliSavasci hasar verdi (Can: 0,0)
+[16,58s] ZirhliSavasci yok edildi! Altın Kazancı: 20
+[16,58s] Altın Hazinesi: 25 (+20)
+[17,55s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 8,6)
+[17,75s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,0)
+[17,75s] ZirhliSavasci yok edildi! Altın Kazancı: 20
+[17,75s] Altın Hazinesi: 45 (+20)
+[17,75s] === İstilacı Ordu Dalgası 4 Tespit Edildi ===
+[17,75s] Askari (Normal Asker) Oluşturuldu
+[17,75s] Zırhlı Savaşçı Oluşturuldu (Zırh: 83)
+[17,75s] Uçan Akbaba Oluşturuldu
+[17,75s] Askari (Normal Asker) Oluşturuldu
+[17,75s] Uçan Akbaba Oluşturuldu
+[17,75s] Uçan Akbaba Oluşturuldu
+[17,75s] Askari (Normal Asker) Oluşturuldu
+[17,75s] Askari (Normal Asker) Oluşturuldu
+[17,75s] Uçan Akbaba Oluşturuldu
+[17,75s] Uçan Akbaba Oluşturuldu
+[17,75s] Uçan Akbaba Oluşturuldu
+[17,77s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[18,07s] TopcuKulesi -> Askari hasar verdi (Can: 0,0)
+[18,07s] Askari yok edildi! Altın Kazancı: 10
+[18,07s] Altın Hazinesi: 55 (+10)
+[18,68s] OkcuKulesi -> Askari hasar verdi (Can: 5,0)
+[19,03s] BuzKulesi -> UcanAkbaba hasar verdi (Can: 0,0)
+[19,03s] UcanAkbaba yok edildi! Altın Kazancı: 15
+[19,03s] Altın Hazinesi: 70 (+15)
+[19,33s] TopcuKulesi -> Askari hasar verdi (Can: 0,0)
+[19,33s] Askari yok edildi! Altın Kazancı: 10
+[19,33s] Altın Hazinesi: 80 (+10)
+[19,42s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[19,60s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 43,2)
+[20,25s] UcanAkbaba kaleye ulaştı! Kale Savunması: 72
+[20,25s] UcanAkbaba kaleye ulaştı! Kale Savunması: 66
+[20,25s] UcanAkbaba kaleye ulaştı! Kale Savunması: 60
+[20,25s] UcanAkbaba kaleye ulaştı! Kale Savunması: 54
+[20,25s] UcanAkbaba kaleye ulaştı! Kale Savunması: 48
+[20,33s] OkcuKulesi -> Askari hasar verdi (Can: 12,5)
+[20,57s] TopcuKulesi -> Askari hasar verdi (Can: 0,0)
+[20,57s] Askari yok edildi! Altın Kazancı: 10
+[20,57s] Altın Hazinesi: 90 (+10)
+[20,85s] BuzKulesi -> Askari hasar verdi (Can: 5,5)
+[20,88s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 6,3)
+[21,25s] OkcuKulesi -> Askari hasar verdi (Can: 0,0)
+[21,25s] Askari yok edildi! Altın Kazancı: 10
+[21,25s] Altın Hazinesi: 100 (+10)
+[21,40s] OkcuKulesi yerleştirildi. Maliyet: 50, Kalan Altın: 50
+[21,42s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,0)
+[21,42s] ZirhliSavasci yok edildi! Altın Kazancı: 20
+[21,42s] Altın Hazinesi: 70 (+20)
+[21,42s] === KAZANDINIZ ===
+[21,42s] Tüm istilacı orduları yok edildi. Firavun'un kalesi güvende!
+[0,00s] === Antik Mısır Kalesi Savunma Sistemleri Aktif ===
+[0,00s] İstilacı Ordusu Tespit Edildi - Savunma Moduna Geçildi
+[0,00s] Başlangıç Altın Hazinesi: 300
+[0,00s] Başlangıç Kale Savunması: 150
+[0,00s] === İstilacı Ordu Dalgası 1 Tespit Edildi ===
+[0,00s] Askari (Normal Asker) Oluşturuldu
+[0,00s] Askari (Normal Asker) Oluşturuldu
+[0,00s] Zırhlı Savaşçı Oluşturuldu (Zırh: 60)
+[0,00s] Uçan Akbaba Oluşturuldu
+[0,00s] === Antik Mısır Kalesi Savunma Sistemleri Aktif ===
+[0,00s] İstilacı Ordusu Tespit Edildi - Savunma Moduna Geçildi
+[0,00s] Başlangıç Altın Hazinesi: 300
+[0,00s] Başlangıç Kale Savunması: 150
+[0,00s] === İstilacı Ordu Dalgası 1 Tespit Edildi ===
+[0,00s] Askari (Normal Asker) Oluşturuldu
+[0,00s] Askari (Normal Asker) Oluşturuldu
+[0,00s] Zırhlı Savaşçı Oluşturuldu (Zırh: 63)
+[0,00s] Uçan Akbaba Oluşturuldu
+[1,00s] OkcuKulesi yerleştirildi. Maliyet: 50, Kalan Altın: 250
+[1,63s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[1,70s] TopcuKulesi yerleştirildi. Maliyet: 75, Kalan Altın: 175
+[2,48s] OkcuKulesi yerleştirildi. Maliyet: 50, Kalan Altın: 125
+[2,50s] UcanAkbaba kaleye ulaştı! Kale Savunması: 144
+[2,50s] OkcuKulesi -> Askari hasar verdi (Can: 5,0)
+[2,55s] OkcuKulesi -> Askari hasar verdi (Can: 0,0)
+[2,55s] Askari yok edildi! Altın Kazancı: 10
+[2,55s] Altın Hazinesi: 135 (+10)
+[2,82s] TopcuKulesi -> Askari hasar verdi (Can: 0,0)
+[2,82s] Askari yok edildi! Altın Kazancı: 10
+[2,82s] Altın Hazinesi: 145 (+10)
+[3,42s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 44,6)
+[4,05s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 39,3)
+[4,33s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 31,6)
+[4,50s] TopcuKulesi yerleştirildi. Maliyet: 75, Kalan Altın: 70
+[4,85s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 12,3)
+[4,97s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,8)
+[5,25s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,0)
+[5,25s] ZirhliSavasci yok edildi! Altın Kazancı: 20
+[5,25s] Altın Hazinesi: 90 (+20)
+[5,25s] === İstilacı Ordu Dalgası 2 Tespit Edildi ===
+[5,25s] Standart Piyade Birimi Oluşturuldu
+[5,25s] Zırhlı Savaşçı Oluşturuldu (Zırh: 63)
+[5,25s] Uçan Akbaba Oluşturuldu
+[5,25s] Askari (Normal Asker) Oluşturuldu
+[5,25s] Uçan Akbaba Oluşturuldu
+[5,25s] Askari (Normal Asker) Oluşturuldu
+[5,25s] Zırhlı Piyade Birimi Oluşturuldu (Zırh: 61)
+[6,37s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[6,37s] BuzKulesi yerleştirildi. Maliyet: 70, Kalan Altın: 20
+[6,38s] BuzKulesi -> UcanAkbaba hasar verdi (Can: 0,0)
+[6,38s] UcanAkbaba yok edildi! Altın Kazancı: 15
+[6,38s] Altın Hazinesi: 35 (+15)
+[6,88s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[7,15s] TopcuKulesi -> Askari hasar verdi (Can: 0,0)
+[7,15s] Askari yok edildi! Altın Kazancı: 10
+[7,15s] Altın Hazinesi: 45 (+10)
+[7,28s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 0,0)
+[7,28s] UcanAkbaba yok edildi! Altın Kazancı: 15
+[7,28s] Altın Hazinesi: 60 (+15)
+[7,67s] TopcuKulesi -> Askari hasar verdi (Can: 0,0)
+[7,67s] Askari yok edildi! Altın Kazancı: 10
+[7,67s] Altın Hazinesi: 70 (+10)
+[7,80s] OkcuKulesi -> Askari hasar verdi (Can: 12,5)
+[8,18s] OkcuKulesi -> Askari hasar verdi (Can: 0,0)
+[8,18s] Askari yok edildi! Altın Kazancı: 10
+[8,18s] BuzKulesi -> ZirhliSavasci hasar verdi (Can: 17,8)
+[8,18s] Altın Hazinesi: 80 (+10)
+[8,62s] OkcuKulesi yerleştirildi. Maliyet: 50, Kalan Altın: 30
+[8,63s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 44,6)
+[9,08s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 36,8)
+[9,30s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 31,4)
+[9,95s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 3,4)
+[9,98s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,0)
+[9,98s] ZirhliSavasci yok edildi! Altın Kazancı: 20
+[9,98s] BuzKulesi -> ZirhliSavasci hasar verdi (Can: 2,8)
+[9,98s] Altın Hazinesi: 50 (+20)
+[10,42s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,0)
+[10,42s] ZirhliSavasci yok edildi! Altın Kazancı: 20
+[10,42s] Altın Hazinesi: 70 (+20)
+[10,42s] === İstilacı Ordu Dalgası 3 Tespit Edildi ===
+[10,42s] Standart Piyade Birimi Oluşturuldu
+[10,42s] Zırhlı Savaşçı Oluşturuldu (Zırh: 73)
+[10,42s] Uçan Akbaba Oluşturuldu
+[10,42s] Standart Piyade Birimi Oluşturuldu
+[10,42s] Zırhlı Savaşçı Oluşturuldu (Zırh: 90)
+[10,42s] Uçan Akbaba Oluşturuldu
+[10,42s] Uçan Akbaba Oluşturuldu
+[10,42s] Uçan Akbaba Oluşturuldu
+[10,58s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[10,72s] TopcuKulesi -> Askari hasar verdi (Can: 0,0)
+[10,72s] Askari yok edildi! Altın Kazancı: 10
+[10,72s] Altın Hazinesi: 80 (+10)
+[11,48s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 0,0)
+[11,48s] UcanAkbaba yok edildi! Altın Kazancı: 15
+[11,48s] Altın Hazinesi: 95 (+15)
+[11,53s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[11,78s] BuzKulesi -> UcanAkbaba hasar verdi (Can: 0,0)
+[11,78s] UcanAkbaba yok edildi! Altın Kazancı: 15
+[11,78s] Altın Hazinesi: 110 (+15)
+[12,05s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[12,10s] OkcuKulesi yerleştirildi. Maliyet: 50, Kalan Altın: 60
+[12,12s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 0,0)
+[12,12s] UcanAkbaba yok edildi! Altın Kazancı: 15
+[12,12s] Altın Hazinesi: 75 (+15)
+[12,38s] OkcuKulesi -> Askari hasar verdi (Can: 12,5)
+[12,43s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 3,0)
+[12,75s] TopcuKulesi -> Askari hasar verdi (Can: 0,0)
+[12,75s] Askari yok edildi! Altın Kazancı: 10
+[12,75s] Altın Hazinesi: 85 (+10)
+[12,92s] UcanAkbaba kaleye ulaştı! Kale Savunması: 138
+[13,28s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 44,9)
+[13,33s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 39,9)
+[13,52s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,9)
+[13,52s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 14,5)
+[13,57s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,0)
+[13,57s] ZirhliSavasci yok edildi! Altın Kazancı: 20
+[13,57s] Altın Hazinesi: 105 (+20)
+[13,58s] BuzKulesi -> ZirhliSavasci hasar verdi (Can: 0,0)
+[13,58s] ZirhliSavasci yok edildi! Altın Kazancı: 20
+[13,58s] Altın Hazinesi: 125 (+20)
+[13,58s] === İstilacı Ordu Dalgası 4 Tespit Edildi ===
+[13,58s] Zırhlı Savaşçı Oluşturuldu (Zırh: 82)
+[13,58s] Zırhlı Savaşçı Oluşturuldu (Zırh: 74)
+[13,58s] Zırhlı Savaşçı Oluşturuldu (Zırh: 56)
+[13,58s] Askari (Normal Asker) Oluşturuldu
+[13,58s] Askari (Normal Asker) Oluşturuldu
+[13,58s] Askari (Normal Asker) Oluşturuldu
+[13,58s] Uçan Akbaba Oluşturuldu
+[13,58s] Askari (Normal Asker) Oluşturuldu
+[13,58s] Askari (Normal Asker) Oluşturuldu
+[13,58s] Uçan Akbaba Oluşturuldu
+[14,18s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 3,0)
+[14,70s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 0,0)
+[14,70s] UcanAkbaba yok edildi! Altın Kazancı: 15
+[14,70s] Altın Hazinesi: 140 (+15)
+[14,85s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[15,00s] OkcuKulesi yerleştirildi. Maliyet: 50, Kalan Altın: 90
+[15,02s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 0,0)
+[15,02s] UcanAkbaba yok edildi! Altın Kazancı: 15
+[15,02s] Altın Hazinesi: 105 (+15)
+[15,08s] OkcuKulesi -> Askari hasar verdi (Can: 12,5)
+[15,38s] BuzKulesi -> Askari hasar verdi (Can: 0,0)
+[15,38s] Askari yok edildi! Altın Kazancı: 10
+[15,38s] Altın Hazinesi: 115 (+10)
+[15,55s] TopcuKulesi -> Askari hasar verdi (Can: 0,0)
+[15,55s] Askari yok edildi! Altın Kazancı: 10
+[15,55s] Altın Hazinesi: 125 (+10)
+[15,60s] OkcuKulesi -> Askari hasar verdi (Can: 12,5)
+[15,75s] OkcuKulesi -> Askari hasar verdi (Can: 0,0)
+[15,75s] Askari yok edildi! Altın Kazancı: 10
+[15,75s] Altın Hazinesi: 135 (+10)
+[15,98s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 45,2)
+[16,12s] OkcuKulesi -> Askari hasar verdi (Can: 12,5)
+[16,32s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 20,5)
+[16,50s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 15,7)
+[16,52s] OkcuKulesi -> Askari hasar verdi (Can: 0,0)
+[16,52s] Askari yok edildi! Altın Kazancı: 10
+[16,52s] Altın Hazinesi: 145 (+10)
+[16,73s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 10,9)
+[16,90s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 6,0)
+[17,03s] OkcuKulesi -> Askari hasar verdi (Can: 5,0)
+[17,20s] BuzKulesi -> ZirhliSavasci hasar verdi (Can: 0,0)
+[17,20s] ZirhliSavasci yok edildi! Altın Kazancı: 20
+[17,20s] Altın Hazinesi: 165 (+20)
+[17,43s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 42,8)
+[17,48s] Askari kaleye ulaştı! Kale Savunması: 132
+[17,65s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 35,6)
+[17,95s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 30,6)
+[18,35s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 23,4)
+[18,37s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,0)
+[18,37s] ZirhliSavasci yok edildi! Altın Kazancı: 20
+[18,37s] Altın Hazinesi: 185 (+20)
+[18,38s] OkcuKulesi yerleştirildi. Maliyet: 50, Kalan Altın: 135
+[18,40s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 44,4)
+[18,87s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 36,4)
+[19,02s] BuzKulesi -> ZirhliSavasci hasar verdi (Can: 20,7)
+[19,27s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 15,1)
+[19,32s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 7,1)
+[19,78s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,0)
+[19,78s] ZirhliSavasci yok edildi! Altın Kazancı: 20
+[19,78s] Altın Hazinesi: 155 (+20)
+[19,78s] === KAZANDINIZ ===
+[19,78s] Tüm istilacı orduları yok edildi. Firavun'un kalesi güvende!
+[0,00s] === Antik Mısır Kalesi Savunma Sistemleri Aktif ===
+[0,00s] İstilacı Ordusu Tespit Edildi - Savunma Moduna Geçildi
+[0,00s] Başlangıç Altın Hazinesi: 300
+[0,00s] Başlangıç Kale Savunması: 150
+[0,00s] === İstilacı Ordu Dalgası 1 Tespit Edildi ===
+[0,00s] Askari (Normal Asker) Oluşturuldu
+[0,00s] Askari (Normal Asker) Oluşturuldu
+[0,00s] Zırhlı Savaşçı Oluşturuldu (Zırh: 72)
+[0,00s] Uçan Akbaba Oluşturuldu
+[2,50s] UcanAkbaba kaleye ulaştı! Kale Savunması: 144
+[3,90s] Askari kaleye ulaştı! Kale Savunması: 138
+[3,90s] Askari kaleye ulaştı! Kale Savunması: 132
+[6,27s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 120
+[6,27s] === İstilacı Ordu Dalgası 2 Tespit Edildi ===
+[6,27s] Standart Piyade Birimi Oluşturuldu
+[6,27s] Zırhlı Savaşçı Oluşturuldu (Zırh: 89)
+[6,27s] Uçan Akbaba Oluşturuldu
+[6,27s] Askari (Normal Asker) Oluşturuldu
+[6,27s] Uçan Akbaba Oluşturuldu
+[6,27s] Askari (Normal Asker) Oluşturuldu
+[6,27s] Askari (Normal Asker) Oluşturuldu
+[6,27s] Uçan Akbaba Oluşturuldu
+[8,77s] UcanAkbaba kaleye ulaştı! Kale Savunması: 114
+[8,77s] UcanAkbaba kaleye ulaştı! Kale Savunması: 108
+[8,77s] UcanAkbaba kaleye ulaştı! Kale Savunması: 102
+[10,17s] Askari kaleye ulaştı! Kale Savunması: 96
+[10,17s] Askari kaleye ulaştı! Kale Savunması: 90
+[10,17s] Askari kaleye ulaştı! Kale Savunması: 84
+[10,17s] Askari kaleye ulaştı! Kale Savunması: 78
+[12,53s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 66
+[12,53s] === İstilacı Ordu Dalgası 3 Tespit Edildi ===
+[12,53s] Standart Piyade Birimi Oluşturuldu
+[12,53s] Zırhlı Savaşçı Oluşturuldu (Zırh: 60)
+[12,53s] Uçan Akbaba Oluşturuldu
+[12,53s] Standart Piyade Birimi Oluşturuldu
+[12,53s] Zırhlı Savaşçı Oluşturuldu (Zırh: 61)
+[12,53s] Uçan Akbaba Oluşturuldu
+[15,03s] UcanAkbaba kaleye ulaştı! Kale Savunması: 60
+[15,03s] UcanAkbaba kaleye ulaştı! Kale Savunması: 54
+[16,43s] Askari kaleye ulaştı! Kale Savunması: 48
+[16,43s] Askari kaleye ulaştı! Kale Savunması: 42
+[18,80s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 30
+[18,80s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 18
+[18,80s] === İstilacı Ordu Dalgası 4 Tespit Edildi ===
+[18,80s] Zırhlı Savaşçı Oluşturuldu (Zırh: 66)
+[18,80s] Zırhlı Savaşçı Oluşturuldu (Zırh: 61)
+[18,80s] Uçan Akbaba Oluşturuldu
+[18,80s] Uçan Akbaba Oluşturuldu
+[18,80s] Uçan Akbaba Oluşturuldu
+[18,80s] Zırhlı Savaşçı Oluşturuldu (Zırh: 59)
+[18,80s] Zırhlı Savaşçı Oluşturuldu (Zırh: 50)
+[18,80s] Zırhlı Savaşçı Oluşturuldu (Zırh: 72)
+[18,80s] Uçan Akbaba Oluşturuldu
+[18,80s] Zırhlı Savaşçı Oluşturuldu (Zırh: 67)
+[18,80s] Askari (Normal Asker) Oluşturuldu
+[18,80s] Zırhlı Savaşçı Oluşturuldu (Zırh: 54)
+[21,30s] UcanAkbaba kaleye ulaştı! Kale Savunması: 12
+[21,30s] UcanAkbaba kaleye ulaştı! Kale Savunması: 6
+[21,30s] UcanAkbaba kaleye ulaştı! Kale Savunması: 0
+[21,30s] UcanAkbaba kaleye ulaştı! Kale Savunması: -6
+[21,30s] === KAYBETTINIZ ===
+[21,30s] Kale Savunması tükendi. Firavun'un kalesi işgal edildi!
+[0,00s] === Antik Mısır Kalesi Savunma Sistemleri Aktif ===
+[0,00s] İstilacı Ordusu Tespit Edildi - Savunma Moduna Geçildi
+[0,00s] Başlangıç Altın Hazinesi: 300
+[0,00s] Başlangıç Kale Savunması: 150
+[0,00s] === İstilacı Ordu Dalgası 1 Tespit Edildi ===
+[0,00s] Askari (Normal Asker) Oluşturuldu
+[0,00s] Askari (Normal Asker) Oluşturuldu
+[0,00s] Zırhlı Savaşçı Oluşturuldu (Zırh: 50)
+[0,00s] Uçan Akbaba Oluşturuldu
+[1,47s] OkcuKulesi yerleştirildi. Maliyet: 50, Kalan Altın: 250
+[1,62s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[2,50s] UcanAkbaba kaleye ulaştı! Kale Savunması: 144
+[2,53s] OkcuKulesi -> Askari hasar verdi (Can: 12,5)
+[3,45s] OkcuKulesi -> Askari hasar verdi (Can: 0,0)
+[3,45s] Askari yok edildi! Altın Kazancı: 10
+[3,45s] Altın Hazinesi: 260 (+10)
+[3,90s] Askari kaleye ulaştı! Kale Savunması: 138
+[4,17s] TopcuKulesi yerleştirildi. Maliyet: 75, Kalan Altın: 185
+[4,18s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 5,0)
+[4,37s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,0)
+[4,37s] ZirhliSavasci yok edildi! Altın Kazancı: 20
+[4,37s] Altın Hazinesi: 205 (+20)
+[4,37s] === İstilacı Ordu Dalgası 2 Tespit Edildi ===
+[4,37s] Standart Piyade Birimi Oluşturuldu
+[4,37s] Zırhlı Savaşçı Oluşturuldu (Zırh: 87)
+[4,37s] Uçan Akbaba Oluşturuldu
+[4,37s] Uçan Akbaba Oluşturuldu
+[4,37s] Uçan Akbaba Oluşturuldu
+[4,37s] Uçan Akbaba Oluşturuldu
+[4,37s] Zırhlı Piyade Birimi Oluşturuldu (Zırh: 63)
+[4,37s] Zırhlı Piyade Birimi Oluşturuldu (Zırh: 78)
+[4,37s] Zırhlı Piyade Birimi Oluşturuldu (Zırh: 65)
+[5,63s] OkcuKulesi yerleştirildi. Maliyet: 50, Kalan Altın: 155
+[5,65s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[5,98s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 0,0)
+[5,98s] UcanAkbaba yok edildi! Altın Kazancı: 15
+[5,98s] Altın Hazinesi: 170 (+15)
+[6,57s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[6,87s] UcanAkbaba kaleye ulaştı! Kale Savunması: 132
+[6,87s] UcanAkbaba kaleye ulaştı! Kale Savunması: 126
+[6,87s] UcanAkbaba kaleye ulaştı! Kale Savunması: 120
+[6,90s] OkcuKulesi -> Askari hasar verdi (Can: 12,5)
+[7,00s] TopcuKulesi -> Askari hasar verdi (Can: 0,0)
+[7,00s] Askari yok edildi! Altın Kazancı: 10
+[7,00s] Altın Hazinesi: 180 (+10)
+[7,48s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 45,3)
+[8,33s] TopcuKulesi yerleştirildi. Maliyet: 75, Kalan Altın: 105
+[8,35s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 28,5)
+[8,38s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 23,8)
+[8,38s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 17,1)
+[9,28s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 10,4)
+[9,28s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 3,7)
+[10,12s] OkcuKulesi yerleştirildi. Maliyet: 50, Kalan Altın: 55
+[10,18s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,0)
+[10,18s] ZirhliSavasci yok edildi! Altın Kazancı: 20
+[10,18s] Altın Hazinesi: 75 (+20)
+[10,63s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 108
+[10,63s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 96
+[10,63s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 84
+[10,63s] === İstilacı Ordu Dalgası 3 Tespit Edildi ===
+[10,63s] Standart Piyade Birimi Oluşturuldu
+[10,63s] Zırhlı Savaşçı Oluşturuldu (Zırh: 54)
+[10,63s] Uçan Akbaba Oluşturuldu
+[10,63s] Standart Piyade Birimi Oluşturuldu
+[10,63s] Zırhlı Savaşçı Oluşturuldu (Zırh: 60)
+[10,63s] Uçan Akbaba Oluşturuldu
+[11,15s] TopcuKulesi -> Askari hasar verdi (Can: 0,0)
+[11,15s] Askari yok edildi! Altın Kazancı: 10
+[11,15s] Altın Hazinesi: 85 (+10)
+[11,50s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[11,75s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 0,0)
+[11,75s] UcanAkbaba yok edildi! Altın Kazancı: 15
+[11,75s] Altın Hazinesi: 100 (+15)
+[12,25s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[12,40s] OkcuKulesi -> Askari hasar verdi (Can: 0,0)
+[12,40s] Askari yok edildi! Altın Kazancı: 10
+[12,40s] Altın Hazinesi: 110 (+10)
+[12,60s] TopcuKulesi yerleştirildi. Maliyet: 75, Kalan Altın: 35
+[12,62s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 29,5)
+[12,65s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 0,0)
+[12,65s] UcanAkbaba yok edildi! Altın Kazancı: 15
+[12,65s] Altın Hazinesi: 50 (+15)
+[13,30s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 21,4)
+[13,50s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 1,0)
+[13,55s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,0)
+[13,55s] ZirhliSavasci yok edildi! Altın Kazancı: 20
+[13,55s] Altın Hazinesi: 70 (+20)
+[13,95s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 21,9)
+[14,20s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 16,4)
+[14,45s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 10,9)
+[14,65s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 5,5)
+[15,35s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,0)
+[15,35s] ZirhliSavasci yok edildi! Altın Kazancı: 20
+[15,35s] Altın Hazinesi: 90 (+20)
+[15,35s] === İstilacı Ordu Dalgası 4 Tespit Edildi ===
+[15,35s] Askari (Normal Asker) Oluşturuldu
+[15,35s] Uçan Akbaba Oluşturuldu
+[15,35s] Zırhlı Savaşçı Oluşturuldu (Zırh: 90)
+[15,35s] Zırhlı Savaşçı Oluşturuldu (Zırh: 79)
+[15,35s] Uçan Akbaba Oluşturuldu
+[15,35s] Uçan Akbaba Oluşturuldu
+[15,35s] Zırhlı Savaşçı Oluşturuldu (Zırh: 55)
+[15,35s] Uçan Akbaba Oluşturuldu
+[15,35s] Uçan Akbaba Oluşturuldu
+[15,35s] Zırhlı Savaşçı Oluşturuldu (Zırh: 63)
+[15,42s] TopcuKulesi -> Askari hasar verdi (Can: 0,0)
+[15,42s] Askari yok edildi! Altın Kazancı: 10
+[15,42s] Altın Hazinesi: 100 (+10)
+[16,22s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[16,47s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 0,0)
+[16,47s] UcanAkbaba yok edildi! Altın Kazancı: 15
+[16,47s] Altın Hazinesi: 115 (+15)
+[16,75s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 26,3)
+[16,97s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[17,27s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 0,0)
+[17,27s] UcanAkbaba yok edildi! Altın Kazancı: 15
+[17,27s] Altın Hazinesi: 130 (+15)
+[17,38s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 3,0)
+[17,85s] UcanAkbaba kaleye ulaştı! Kale Savunması: 78
+[17,85s] UcanAkbaba kaleye ulaştı! Kale Savunması: 72
+[17,85s] UcanAkbaba kaleye ulaştı! Kale Savunması: 66
+[18,18s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 16,4)
+[18,22s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,0)
+[18,22s] ZirhliSavasci yok edildi! Altın Kazancı: 20
+[18,22s] Altın Hazinesi: 150 (+20)
+[18,30s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 45,1)
+[18,43s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 27,5)
+[19,10s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 22,6)
+[19,22s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 15,6)
+[19,37s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 10,8)
+[20,13s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 3,8)
+[20,15s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,0)
+[20,15s] ZirhliSavasci yok edildi! Altın Kazancı: 20
+[20,15s] Altın Hazinesi: 170 (+20)
+[20,28s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 41,9)
+[21,20s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 36,3)
+[21,62s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 54
+[21,62s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 42
+[21,62s] === KAZANDINIZ ===
+[21,62s] Tüm istilacı orduları yok edildi. Firavun'un kalesi güvende!
+[0,00s] === Antik Mısır Kalesi Savunma Sistemleri Aktif ===
+[0,00s] İstilacı Ordusu Tespit Edildi - Savunma Moduna Geçildi
+[0,00s] Başlangıç Altın Hazinesi: 300
+[0,00s] Başlangıç Kale Savunması: 150
+[0,00s] === İstilacı Ordu Dalgası 1 Tespit Edildi ===
+[0,00s] Askari (Normal Asker) Oluşturuldu
+[0,00s] Askari (Normal Asker) Oluşturuldu
+[0,00s] Zırhlı Savaşçı Oluşturuldu (Zırh: 79)
+[0,00s] Uçan Akbaba Oluşturuldu
+[2,50s] UcanAkbaba kaleye ulaştı! Kale Savunması: 144
+[3,90s] Askari kaleye ulaştı! Kale Savunması: 138
+[3,90s] Askari kaleye ulaştı! Kale Savunması: 132
+[0,00s] === Antik Mısır Kalesi Savunma Sistemleri Aktif ===
+[0,00s] İstilacı Ordusu Tespit Edildi - Savunma Moduna Geçildi
+[0,00s] Başlangıç Altın Hazinesi: 300
+[0,00s] Başlangıç Kale Savunması: 150
+[0,00s] === İstilacı Ordu Dalgası 1 Tespit Edildi ===
+[0,00s] Askari (Normal Asker) Oluşturuldu
+[0,00s] Askari (Normal Asker) Oluşturuldu
+[0,00s] Zırhlı Savaşçı Oluşturuldu (Zırh: 73)
+[0,00s] Uçan Akbaba Oluşturuldu
+[2,50s] UcanAkbaba kaleye ulaştı! Kale Savunması: 144
+[3,90s] Askari kaleye ulaştı! Kale Savunması: 138
+[3,90s] Askari kaleye ulaştı! Kale Savunması: 132
+[6,27s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 120
+[6,27s] === İstilacı Ordu Dalgası 2 Tespit Edildi ===
+[6,27s] Standart Piyade Birimi Oluşturuldu
+[6,27s] Zırhlı Savaşçı Oluşturuldu (Zırh: 70)
+[6,27s] Uçan Akbaba Oluşturuldu
+[6,27s] Zırhlı Piyade Birimi Oluşturuldu (Zırh: 84)
+[6,27s] Askari (Normal Asker) Oluşturuldu
+[8,77s] UcanAkbaba kaleye ulaştı! Kale Savunması: 114
+[10,17s] Askari kaleye ulaştı! Kale Savunması: 108
+[10,17s] Askari kaleye ulaştı! Kale Savunması: 102
+[12,53s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 90
+[12,53s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 78
+[12,53s] === İstilacı Ordu Dalgası 3 Tespit Edildi ===
+[12,53s] Standart Piyade Birimi Oluşturuldu
+[12,53s] Zırhlı Savaşçı Oluşturuldu (Zırh: 83)
+[12,53s] Uçan Akbaba Oluşturuldu
+[12,53s] Standart Piyade Birimi Oluşturuldu
+[12,53s] Zırhlı Savaşçı Oluşturuldu (Zırh: 69)
+[12,53s] Uçan Akbaba Oluşturuldu
+[12,53s] Uçan Akbaba Oluşturuldu
+[12,53s] Uçan Akbaba Oluşturuldu
+[15,03s] UcanAkbaba kaleye ulaştı! Kale Savunması: 72
+[15,03s] UcanAkbaba kaleye ulaştı! Kale Savunması: 66
+[15,03s] UcanAkbaba kaleye ulaştı! Kale Savunması: 60
+[15,03s] UcanAkbaba kaleye ulaştı! Kale Savunması: 54
+[16,43s] Askari kaleye ulaştı! Kale Savunması: 48
+[16,43s] Askari kaleye ulaştı! Kale Savunması: 42
+[18,80s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 30
+[18,80s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 18
+[18,80s] === İstilacı Ordu Dalgası 4 Tespit Edildi ===
+[18,80s] Zırhlı Savaşçı Oluşturuldu (Zırh: 70)
+[18,80s] Uçan Akbaba Oluşturuldu
+[18,80s] Uçan Akbaba Oluşturuldu
+[18,80s] Uçan Akbaba Oluşturuldu
+[18,80s] Askari (Normal Asker) Oluşturuldu
+[18,80s] Uçan Akbaba Oluşturuldu
+[18,80s] Zırhlı Savaşçı Oluşturuldu (Zırh: 86)
+[18,80s] Zırhlı Savaşçı Oluşturuldu (Zırh: 88)
+[21,30s] UcanAkbaba kaleye ulaştı! Kale Savunması: 12
+[21,30s] UcanAkbaba kaleye ulaştı! Kale Savunması: 6
+[21,30s] UcanAkbaba kaleye ulaştı! Kale Savunması: 0
+[21,30s] UcanAkbaba kaleye ulaştı! Kale Savunması: -6
+[21,30s] === KAYBETTINIZ ===
+[21,30s] Kale Savunması tükendi. Firavun'un kalesi işgal edildi!
+[0,00s] === Antik Mısır Kalesi Savunma Sistemleri Aktif ===
+[0,00s] İstilacı Ordusu Tespit Edildi - Savunma Moduna Geçildi
+[0,00s] Başlangıç Altın Hazinesi: 300
+[0,00s] Başlangıç Kale Savunması: 150
+[0,00s] === İstilacı Ordu Dalgası 1 Tespit Edildi ===
+[0,00s] Askari (Normal Asker) Oluşturuldu
+[0,00s] Askari (Normal Asker) Oluşturuldu
+[0,00s] Zırhlı Savaşçı Oluşturuldu (Zırh: 71)
+[0,00s] Uçan Akbaba Oluşturuldu
+[0,82s] OkcuKulesi yerleştirildi. Maliyet: 50, Kalan Altın: 250
+[1,58s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[1,68s] TopcuKulesi yerleştirildi. Maliyet: 75, Kalan Altın: 175
+[2,50s] UcanAkbaba kaleye ulaştı! Kale Savunması: 144
+[2,50s] OkcuKulesi -> Askari hasar verdi (Can: 12,5)
+[2,50s] OkcuKulesi yerleştirildi. Maliyet: 50, Kalan Altın: 125
+[2,52s] OkcuKulesi -> Askari hasar verdi (Can: 0,0)
+[2,52s] Askari yok edildi! Altın Kazancı: 10
+[2,52s] Altın Hazinesi: 135 (+10)
+[2,82s] TopcuKulesi -> Askari hasar verdi (Can: 0,0)
+[2,82s] Askari yok edildi! Altın Kazancı: 10
+[2,82s] Altın Hazinesi: 145 (+10)
+[3,43s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 42,7)
+[3,95s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 37,6)
+[4,35s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 32,5)
+[4,87s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 21,5)
+[5,27s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 16,4)
+[5,78s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 11,3)
+[6,17s] BuzKulesi yerleştirildi. Maliyet: 70, Kalan Altın: 75
+[6,27s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 132
+[6,27s] === İstilacı Ordu Dalgası 2 Tespit Edildi ===
+[6,27s] Standart Piyade Birimi Oluşturuldu
+[6,27s] Zırhlı Savaşçı Oluşturuldu (Zırh: 68)
+[6,27s] Uçan Akbaba Oluşturuldu
+[6,27s] Askari (Normal Asker) Oluşturuldu
+[6,27s] Uçan Akbaba Oluşturuldu
+[6,27s] Uçan Akbaba Oluşturuldu
+[6,27s] Uçan Akbaba Oluşturuldu
+[6,27s] Askari (Normal Asker) Oluşturuldu
+[6,27s] Zırhlı Piyade Birimi Oluşturuldu (Zırh: 83)
+[6,58s] BuzKulesi -> UcanAkbaba hasar verdi (Can: 3,5)
+[7,27s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[7,85s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 0,0)
+[7,85s] UcanAkbaba yok edildi! Altın Kazancı: 15
+[7,85s] Altın Hazinesi: 90 (+15)
+[8,12s] TopcuKulesi -> Askari hasar verdi (Can: 0,0)
+[8,12s] Askari yok edildi! Altın Kazancı: 10
+[8,12s] Altın Hazinesi: 100 (+10)
+[8,17s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[8,22s] TopcuKulesi yerleştirildi. Maliyet: 75, Kalan Altın: 25
+[8,38s] BuzKulesi -> Askari hasar verdi (Can: 0,0)
+[8,38s] Askari yok edildi! Altın Kazancı: 10
+[8,38s] Altın Hazinesi: 35 (+10)
+[8,75s] OkcuKulesi -> Askari hasar verdi (Can: 12,5)
+[8,77s] UcanAkbaba kaleye ulaştı! Kale Savunması: 126
+[8,77s] UcanAkbaba kaleye ulaştı! Kale Savunması: 120
+[8,82s] TopcuKulesi -> Askari hasar verdi (Can: 0,0)
+[8,82s] Askari yok edildi! Altın Kazancı: 10
+[8,82s] Altın Hazinesi: 45 (+10)
+[9,07s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 0,0)
+[9,07s] UcanAkbaba yok edildi! Altın Kazancı: 15
+[9,07s] Altın Hazinesi: 60 (+15)
+[9,97s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 42,6)
+[10,18s] BuzKulesi -> ZirhliSavasci hasar verdi (Can: 28,0)
+[10,22s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 45,2)
+[10,87s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 40,4)
+[10,92s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 15,8)
+[10,92s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,0)
+[10,92s] ZirhliSavasci yok edildi! Altın Kazancı: 20
+[10,92s] Altın Hazinesi: 80 (+20)
+[11,12s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 5,6)
+[11,62s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,0)
+[11,62s] ZirhliSavasci yok edildi! Altın Kazancı: 20
+[11,62s] Altın Hazinesi: 100 (+20)
+[11,62s] === İstilacı Ordu Dalgası 3 Tespit Edildi ===
+[11,62s] Standart Piyade Birimi Oluşturuldu
+[11,62s] Zırhlı Savaşçı Oluşturuldu (Zırh: 57)
+[11,62s] Uçan Akbaba Oluşturuldu
+[11,62s] Standart Piyade Birimi Oluşturuldu
+[11,62s] Zırhlı Savaşçı Oluşturuldu (Zırh: 56)
+[11,62s] Uçan Akbaba Oluşturuldu
+[11,98s] BuzKulesi -> UcanAkbaba hasar verdi (Can: 3,5)
+[12,62s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[13,20s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 0,0)
+[13,20s] UcanAkbaba yok edildi! Altın Kazancı: 15
+[13,20s] Altın Hazinesi: 115 (+15)
+[13,52s] OkcuKulesi -> Askari hasar verdi (Can: 5,0)
+[13,72s] TopcuKulesi -> Askari hasar verdi (Can: 0,0)
+[13,72s] Askari yok edildi! Altın Kazancı: 10
+[13,72s] Altın Hazinesi: 125 (+10)
+[13,78s] BuzKulesi -> Askari hasar verdi (Can: 0,0)
+[13,78s] Askari yok edildi! Altın Kazancı: 10
+[13,78s] Altın Hazinesi: 135 (+10)
+[14,42s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 0,0)
+[14,42s] UcanAkbaba yok edildi! Altın Kazancı: 15
+[14,42s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 44,4)
+[14,42s] Altın Hazinesi: 150 (+15)
+[15,32s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 36,5)
+[15,57s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 30,9)
+[15,70s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 10,8)
+[16,22s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 5,3)
+[16,48s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,0)
+[16,48s] ZirhliSavasci yok edildi! Altın Kazancı: 20
+[16,48s] Altın Hazinesi: 170 (+20)
+[16,52s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 21,2)
+[17,40s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 15,5)
+[17,88s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 108
+[17,88s] === İstilacı Ordu Dalgası 4 Tespit Edildi ===
+[17,88s] Askari (Normal Asker) Oluşturuldu
+[17,88s] Uçan Akbaba Oluşturuldu
+[17,88s] Uçan Akbaba Oluşturuldu
+[17,88s] Zırhlı Savaşçı Oluşturuldu (Zırh: 66)
+[17,88s] Uçan Akbaba Oluşturuldu
+[17,88s] Askari (Normal Asker) Oluşturuldu
+[17,88s] Zırhlı Savaşçı Oluşturuldu (Zırh: 58)
+[17,88s] Zırhlı Savaşçı Oluşturuldu (Zırh: 56)
+[17,88s] Askari (Normal Asker) Oluşturuldu
+[17,88s] Askari (Normal Asker) Oluşturuldu
+[17,88s] Uçan Akbaba Oluşturuldu
+[18,20s] BuzKulesi -> UcanAkbaba hasar verdi (Can: 3,5)
+[18,88s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[19,47s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 0,0)
+[19,47s] UcanAkbaba yok edildi! Altın Kazancı: 15
+[19,47s] Altın Hazinesi: 185 (+15)
+[19,73s] TopcuKulesi -> Askari hasar verdi (Can: 0,0)
+[19,73s] Askari yok edildi! Altın Kazancı: 10
+[19,73s] Altın Hazinesi: 195 (+10)
+[19,80s] OkcuKulesi -> UcanAkbaba hasar verdi (Can: 10,5)
+[20,02s] BuzKulesi -> Askari hasar verdi (Can: 0,0)
+[20,02s] Askari yok edildi! Altın Kazancı: 10
+[20,02s] Altın Hazinesi: 205 (+10)
+[20,38s] UcanAkbaba kaleye ulaştı! Kale Savunması: 102
+[20,38s] UcanAkbaba kaleye ulaştı! Kale Savunması: 96
+[20,38s] OkcuKulesi -> Askari hasar verdi (Can: 12,5)
+[20,43s] TopcuKulesi -> Askari hasar verdi (Can: 0,0)
+[20,43s] Askari yok edildi! Altın Kazancı: 10
+[20,43s] Altın Hazinesi: 215 (+10)
+[20,72s] OkcuKulesi -> Askari hasar verdi (Can: 12,5)
+[21,30s] OkcuKulesi -> Askari hasar verdi (Can: 0,0)
+[21,30s] Askari yok edildi! Altın Kazancı: 10
+[21,30s] Altın Hazinesi: 225 (+10)
+[21,63s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 42,5)
+[21,88s] UcanAkbaba kaleye ulaştı! Kale Savunması: 90
+[22,22s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 34,9)
+[22,55s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 7,8)
+[22,55s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 2,6)
+[23,13s] OkcuKulesi -> ZirhliSavasci hasar verdi (Can: 0,0)
+[23,13s] ZirhliSavasci yok edildi! Altın Kazancı: 20
+[23,13s] Altın Hazinesi: 245 (+20)
+[23,25s] TopcuKulesi -> ZirhliSavasci hasar verdi (Can: 21,5)
+[24,15s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 78
+[24,15s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 66
+[24,15s] === KAZANDINIZ ===
+[24,15s] Tüm istilacı orduları yok edildi. Firavun'un kalesi güvende!
+[24,15s] TopcuKulesi yerleştirildi. Maliyet: 75, Kalan Altın: 170
+[0,00s] === Antik Mısır Kalesi Savunma Sistemleri Aktif ===
+[0,00s] İstilacı Ordusu Tespit Edildi - Savunma Moduna Geçildi
+[0,00s] Başlangıç Altın Hazinesi: 300
+[0,00s] Başlangıç Kale Savunması: 150
+[0,00s] === İstilacı Ordu Dalgası 1 Tespit Edildi ===
+[0,00s] Askari (Normal Asker) Oluşturuldu
+[0,00s] Askari (Normal Asker) Oluşturuldu
+[0,00s] Zırhlı Savaşçı Oluşturuldu (Zırh: 74)
+[0,00s] Uçan Akbaba Oluşturuldu
+[2,50s] UcanAkbaba kaleye ulaştı! Kale Savunması: 144
+[3,90s] Askari kaleye ulaştı! Kale Savunması: 138
+[3,90s] Askari kaleye ulaştı! Kale Savunması: 132
+[6,27s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 120
+[6,27s] === İstilacı Ordu Dalgası 2 Tespit Edildi ===
+[6,27s] Standart Piyade Birimi Oluşturuldu
+[6,27s] Zırhlı Savaşçı Oluşturuldu (Zırh: 64)
+[6,27s] Uçan Akbaba Oluşturuldu
+[6,27s] Uçan Akbaba Oluşturuldu
+[6,27s] Uçan Akbaba Oluşturuldu
+[6,27s] Uçan Akbaba Oluşturuldu
+[6,27s] Zırhlı Piyade Birimi Oluşturuldu (Zırh: 66)
+[6,27s] Askari (Normal Asker) Oluşturuldu
+[6,27s] Askari (Normal Asker) Oluşturuldu
+[8,77s] UcanAkbaba kaleye ulaştı! Kale Savunması: 114
+[8,77s] UcanAkbaba kaleye ulaştı! Kale Savunması: 108
+[8,77s] UcanAkbaba kaleye ulaştı! Kale Savunması: 102
+[8,77s] UcanAkbaba kaleye ulaştı! Kale Savunması: 96
+[10,17s] Askari kaleye ulaştı! Kale Savunması: 90
+[10,17s] Askari kaleye ulaştı! Kale Savunması: 84
+[10,17s] Askari kaleye ulaştı! Kale Savunması: 78
+[12,53s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 66
+[12,53s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 54
+[12,53s] === İstilacı Ordu Dalgası 3 Tespit Edildi ===
+[12,53s] Standart Piyade Birimi Oluşturuldu
+[12,53s] Zırhlı Savaşçı Oluşturuldu (Zırh: 57)
+[12,53s] Uçan Akbaba Oluşturuldu
+[12,53s] Standart Piyade Birimi Oluşturuldu
+[12,53s] Zırhlı Savaşçı Oluşturuldu (Zırh: 65)
+[12,53s] Uçan Akbaba Oluşturuldu
+[12,53s] Uçan Akbaba Oluşturuldu
+[15,03s] UcanAkbaba kaleye ulaştı! Kale Savunması: 48
+[15,03s] UcanAkbaba kaleye ulaştı! Kale Savunması: 42
+[15,03s] UcanAkbaba kaleye ulaştı! Kale Savunması: 36
+[16,43s] Askari kaleye ulaştı! Kale Savunması: 30
+[16,43s] Askari kaleye ulaştı! Kale Savunması: 24
+[18,80s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 12
+[18,80s] ZirhliSavasci kaleye ulaştı! Kale Savunması: 0
+[18,80s] === KAYBETTINIZ ===
+[18,80s] Kale Savunması tükendi. Firavun'un kalesi işgal edildi!
+[18,80s] === İstilacı Ordu Dalgası 4 Tespit Edildi ===
+[18,80s] Uçan Akbaba Oluşturuldu
+[18,80s] Uçan Akbaba Oluşturuldu
+[18,80s] Zırhlı Savaşçı Oluşturuldu (Zırh: 78)
+[18,80s] Uçan Akbaba Oluşturuldu
+[18,80s] Uçan Akbaba Oluşturuldu
+[18,80s] Uçan Akbaba Oluşturuldu
+[18,80s] Zırhlı Savaşçı Oluşturuldu (Zırh: 54)
+[18,80s] Zırhlı Savaşçı Oluşturuldu (Zırh: 86)
+[18,80s] Zırhlı Savaşçı Oluşturuldu (Zırh: 87)
